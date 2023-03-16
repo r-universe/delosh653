@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "mwshiny"]
+	path = mwshiny
+	url = https://github.com/delosh653/mwshiny
+	shallow = true
+	registered = true
